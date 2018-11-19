@@ -7,4 +7,3 @@ def fizzbuzz(int)
     "Buzz"
   end
 end
-fizzbuzz(3)
